@@ -19,6 +19,18 @@
       "url": "https://raw.githubusercontent.com/Windexi/cookiecutter/master/3.jpg",
       "thumbUrl": "https://raw.githubusercontent.com/Windexi/cookiecutter/master/3.jpg",
       "name": "Gradient Sands"
+    },
+    {
+      "author": "Puscifer91",
+      "url": "https://raw.githubusercontent.com/Windexi/cookiecutter/master/4.jpg",
+      "thumbUrl": "https://raw.githubusercontent.com/Windexi/cookiecutter/master/4.jpg",
+      "name": "White Spires"
+    },
+    {
+      "author": "Barrieau",
+      "url": "https://raw.githubusercontent.com/Windexi/cookiecutter/master/5.jpg",
+      "thumbUrl": "https://raw.githubusercontent.com/Windexi/cookiecutter/master/5.jpg",
+      "name": "Minimal Mountains"
     }
   ]
 }
