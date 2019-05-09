@@ -2,35 +2,23 @@
   "Wallpapers":
   [
     {
-      "author": "Unknown",
-      "url": "https://raw.githubusercontent.com/Windexi/cookiecutter/master/1.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/Windexi/cookiecutter/master/1.jpg",
-      "name": "Gradient Mountain"
+      "author": "Windexi",
+      "url": "https://raw.githubusercontent.com/Windexi/cookiecutter/master/blue_gradient.png",
+      "thumbUrl": "https://raw.githubusercontent.com/Windexi/cookiecutter/master/blue_gradient.png",
+      "name": "Blue Gradient"
 
     },
     {
-      "author": "Taken from AndroidWalls",
-      "url": "https://raw.githubusercontent.com/Windexi/cookiecutter/master/2.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/Windexi/cookiecutter/master/2.jpg",
-      "name": "Turquoise Ocean"
+      "author": "Windexi",
+      "url": "https://raw.githubusercontent.com/Windexi/cookiecutter/master/pink_gradient.png",
+      "thumbUrl": "https://raw.githubusercontent.com/Windexi/cookiecutter/master/pink_gradient.png",
+      "name": "Pink Gradient"
     },
     {
-      "author": "Puscifer91",
-      "url": "https://raw.githubusercontent.com/Windexi/cookiecutter/master/3.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/Windexi/cookiecutter/master/3.jpg",
-      "name": "Gradient Sands"
-    },
-    {
-      "author": "Puscifer91",
-      "url": "https://raw.githubusercontent.com/Windexi/cookiecutter/master/4.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/Windexi/cookiecutter/master/4.jpg",
-      "name": "White Spires"
-    },
-    {
-      "author": "Barrieau",
-      "url": "https://raw.githubusercontent.com/Windexi/cookiecutter/master/5.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/Windexi/cookiecutter/master/5.jpg",
-      "name": "Minimal Mountains"
+      "author": "Windexi",
+      "url": "https://raw.githubusercontent.com/Windexi/cookiecutter/master/yellow_gradient.png",
+      "thumbUrl": "https://raw.githubusercontent.com/Windexi/cookiecutter/master/yellow_gradient.png",
+      "name": "Yellow Gradient"
     }
   ]
 }
